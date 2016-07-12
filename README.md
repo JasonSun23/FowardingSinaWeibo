@@ -9,7 +9,7 @@
 python Begin.py</br>
 
 ## 转发微博
-- 转发抽奖微博利用Selenium中的WebDriver，登录微博并读取MongoDB里的微博信息，实施自动转发。
+- 利用Selenium中的WebDriver进行模拟，登录微博并读取MongoDB里的微博信息，实施自动转发。
 - 可扩展为多用户进行转发，以增加中奖概率。
 
 ###运行
